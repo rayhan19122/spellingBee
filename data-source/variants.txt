@@ -1,0 +1,15 @@
+# Other accepted spellings. Format: Word | variant;variant
+Emphasize | emphasise
+Incentivize | incentivise
+Minimize | minimise
+Mobilize | mobilise
+Realize | realise
+Recognize | recognise
+Scrutinize | scrutinise
+Synthesize | synthesise
+Utilize | utilise
+Neighbour | neighbor
+Skeptical | sceptical
+Judgment | judgement
+Hand-feed | hand feed
+Forever | for ever

@@ -1,0 +1,218 @@
+# Meaning and example sentence for every spelling-list word that is NOT already in Vocab11
+# (Vocab11 words reuse their Vocab11 meaning and original PDF sentences).
+# Written for this app; not from the PDF. Every sentence contains the word exactly.
+# Format: Word | part of speech | meaning | sentence
+Absence | noun | the state of being away or not present | Her absence from class was noticed by the teacher.
+Acceptable | adjective | good enough to be allowed or agreed to | Your work is acceptable, but it could be better.
+Accessible | adjective | easy to reach, enter or use | The building is accessible to wheelchair users.
+Accommodation | noun | a place to live or stay | We found cheap accommodation near the beach.
+Accomplish | verb | to finish something successfully | She will accomplish her goal this year.
+Achievement | noun | something done successfully with effort | Winning the prize was a great achievement.
+Acquire | verb | to get or gain something | It takes time to acquire a new skill.
+Address | noun | the details of where someone lives or works | Please write your address on the envelope.
+Advertisement | noun | a notice or short film that tries to sell something | I saw an advertisement for a new phone.
+Advice | noun | an opinion about what someone should do | My father gave me good advice about money.
+Advise | verb | to tell someone what you think they should do | The doctor will advise you to rest.
+Amateur | noun | a person who does something for fun, not as a job | He is an amateur, but he plays like a professional.
+Argument | noun | an angry disagreement, or a reason given to support an idea | They had an argument about the bill.
+Attendance | noun | the act of being present, or the number of people present | Attendance at the meeting was low.
+Basically | adverb | in the most important ways; simply | The plan is basically good.
+Belief | noun | a feeling that something is true | She has a strong belief in hard work.
+Believe | verb | to think that something is true | I believe you are right.
+Beneficial | adjective | helpful or good for someone | Exercise is beneficial to your health.
+Business | noun | the activity of buying and selling, or a company | He started his own business last year.
+Calendar | noun | a chart showing the days, weeks and months of a year | I marked the date on my calendar.
+Campaign | noun | a planned series of actions to reach a goal | The campaign to save the park was a success.
+Category | noun | a group of things of the same type | Put each book in the right category.
+Cemetery | noun | a place where dead people are buried | The old cemetery is behind the church.
+Challenge | noun | something difficult that tests your ability | Learning English spelling is a real challenge.
+Characteristic | noun | a typical quality or feature | Patience is his best characteristic.
+Cigarette | noun | a thin paper roll of tobacco for smoking | He threw away his last cigarette.
+Clothes | noun | things you wear, such as shirts and trousers | She bought new clothes for the trip.
+Column | noun | a tall stone post, or a vertical row of numbers or words | Add up the numbers in the first column.
+Committee | noun | a group of people chosen to make decisions | The committee will meet on Monday.
+Commitment | noun | a promise or strong dedication to something | Teaching requires real commitment.
+Completely | adverb | totally; in every way | The room was completely empty.
+Condemn | verb | to say strongly that something is wrong | Leaders condemn the attack.
+Conscience | noun | the inner sense of what is right and wrong | His conscience told him to return the wallet.
+Conscientious | adjective | careful to do work well and thoroughly | She is a conscientious student.
+Conscious | adjective | awake and aware of what is happening | The patient is conscious and talking.
+Convenient | adjective | easy to use or suitable for your plans | Is Friday convenient for you?
+Correspond | verb | to write letters to someone, or to match | The two numbers correspond exactly.
+Correspondence | noun | letters or emails sent between people | Keep all your correspondence with the bank.
+Criticism | noun | the act of saying what is wrong with something | He did not take the criticism well.
+Deceive | verb | to make someone believe something false | Don't try to deceive your parents.
+Definition | noun | an explanation of the meaning of a word | Look up the definition in a dictionary.
+Department | noun | a section of a large organisation | She works in the sales department.
+Describe | verb | to say what someone or something is like | Can you describe the man you saw?
+Despair | noun | the feeling of having no hope | He was filled with despair after losing his job.
+Desperate | adjective | in great need and willing to try anything | They were desperate for water.
+Development | noun | the process of growing or improving | The development of the city took years.
+Difference | noun | the way in which things are not the same | What is the difference between the two cars?
+Difficult | adjective | not easy | The test was difficult.
+Disappointed | adjective | unhappy because something was not as good as hoped | I was disappointed with the result.
+Discipline | noun | training to obey rules and control behaviour | The team needs more discipline.
+Disease | noun | an illness | Malaria is a dangerous disease.
+Easily | adverb | without difficulty | She won the race easily.
+Eighth | adjective | coming after the seventh | My office is on the eighth floor.
+Either | determiner | one or the other of two | You can choose either colour.
+Embarrass | verb | to make someone feel shy or ashamed | Please don't embarrass me in front of my friends.
+Encouragement | noun | words or actions that give someone confidence | Thanks for your encouragement.
+Enemy | noun | a person who hates or fights against another | The army defeated the enemy.
+Entirely | adverb | completely | I entirely agree with you.
+Environment | noun | the natural world around us | We must protect the environment.
+Especially | adverb | more than usual; particularly | I love fruit, especially mangoes.
+Excellent | adjective | extremely good | You did an excellent job.
+Existence | noun | the state of being real or alive | Do you believe in the existence of ghosts?
+Experience | noun | knowledge or skill gained by doing something | She has ten years of teaching experience.
+Experiment | noun | a scientific test to find something out | We did an experiment in the lab.
+Familiar | adjective | well known to you | Her face looks familiar.
+February | noun | the second month of the year | My birthday is in February.
+Financial | adjective | relating to money | The company has financial problems.
+Foreign | adjective | from or in another country | She speaks two foreign languages.
+Foreigner | noun | a person from another country | The foreigner asked me for directions.
+Formerly | adverb | in the past; before now | The hotel was formerly a palace.
+Forty | number | the number 40 | My uncle is forty years old.
+Fourth | adjective | coming after the third | He finished fourth in the race.
+General | adjective | affecting most people or things; not detailed | The general opinion is positive.
+Generally | adverb | usually; in most cases | I generally wake up at six.
+Genius | noun | a very clever or talented person | Einstein was a genius.
+Government | noun | the group of people who rule a country | The government raised taxes.
+Grammar | noun | the rules of a language | Good grammar makes writing clear.
+Grateful | adjective | feeling thankful | I am grateful for your help.
+Happily | adverb | in a happy way | The children played happily.
+Height | noun | how tall someone or something is | What is the height of that tower?
+Heroes | noun | brave people admired by others (plural of hero) | Firefighters are real heroes.
+Humorous | adjective | funny | He told a humorous story.
+Hypocrite | noun | a person who says one thing but does another | He is a hypocrite who smokes but tells others not to.
+Imaginary | adjective | existing only in the mind | The child has an imaginary friend.
+Immediate | adjective | happening now, without delay | We need an immediate answer.
+Incredible | adjective | very hard to believe; amazing | The view from the top was incredible.
+Independent | adjective | not controlled by or depending on others | She is an independent young woman.
+Influential | adjective | having a lot of influence | He is an influential writer.
+Insurance | noun | an arrangement that pays you money if something bad happens | Do you have car insurance?
+Intelligence | noun | the ability to learn and understand | She is a woman of great intelligence.
+Interference | noun | the act of getting involved when not wanted | I don't want any interference in my plans.
+Interrupt | verb | to stop someone while they are speaking or doing something | Please don't interrupt me.
+Introduce | verb | to tell people each other's names when they first meet | Let me introduce my sister.
+Island | noun | a piece of land surrounded by water | They live on a small island.
+Jealous | adjective | unhappy because someone has what you want | He was jealous of his brother's success.
+Jealousy | noun | the feeling of being jealous | Jealousy can ruin a friendship.
+Kneel | verb | to go down on your knees | Please kneel on the mat.
+Knowledge | noun | information and understanding you have | He has a good knowledge of history.
+Later | adverb | at a time after now | I'll call you later.
+Length | noun | how long something is | What is the length of the room?
+Library | noun | a place where books are kept for people to read or borrow | I borrowed a book from the library.
+Lightning | noun | a flash of light in the sky during a storm | The tree was hit by lightning.
+Likely | adjective | probably going to happen | It is likely to rain today.
+Loneliness | noun | the sad feeling of being alone | Loneliness is common among old people.
+Lose | verb | to no longer have something, or to fail to win | Don't lose your keys.
+Loose | adjective | not tight or not firmly fixed | My shoes are loose.
+Luxurious | adjective | very comfortable and expensive | They stayed in a luxurious hotel.
+Maintain | verb | to keep something in good condition | It is expensive to maintain a big house.
+Maintenance | noun | the work of keeping something in good condition | The lift is closed for maintenance.
+Manageable | adjective | possible to deal with or control | The work is manageable if we share it.
+Management | noun | the control and organisation of a business | The management decided to close the shop.
+Manufacture | verb | to make goods in large numbers in a factory | They manufacture cars in Japan.
+Marriage | noun | the legal relationship between husband and wife | Their marriage lasted fifty years.
+Married | adjective | having a husband or wife | My sister is married.
+Millionaire | noun | a person who has at least a million pounds or dollars | He became a millionaire at thirty.
+Missile | noun | a weapon that flies through the air | The missile hit its target.
+Mischievous | adjective | playfully naughty | The mischievous boy hid his sister's shoes.
+Mortgage | noun | a loan used to buy a house | They pay their mortgage every month.
+Muscle | noun | the body tissue that makes you move | He hurt a muscle in his leg.
+Mysterious | adjective | strange and hard to explain | A mysterious man stood at the door.
+Naturally | adverb | in a normal or expected way; of course | Naturally, she was upset.
+Necessary | adjective | needed; essential | Water is necessary for life.
+Neighbour | noun | a person who lives next to or near you | Our neighbour has a big dog.
+Ninety | number | the number 90 | My grandmother is ninety years old.
+Noticeable | adjective | easy to see or notice | There is a noticeable change in his health.
+Nowadays | adverb | at the present time | Nowadays, everyone has a mobile phone.
+Obedient | adjective | doing what you are told | The dog is very obedient.
+Obstacle | noun | something that blocks your way | Fear is the biggest obstacle to success.
+Occurrence | noun | something that happens | Floods are a common occurrence here.
+Occurred | verb | happened (past of occur) | The accident occurred at midnight.
+Official | adjective | approved by the government or someone in authority | This is the official result.
+Opinion | noun | what you think about something | In my opinion, the film was too long.
+Opportunity | noun | a chance to do something | This job is a great opportunity.
+Opposition | noun | strong disagreement, or the people who oppose | There was strong opposition to the new road.
+Originally | adverb | at first; in the beginning | The house was originally white.
+Particular | adjective | a specific one, not any other | Is there a particular book you want?
+Peculiar | adjective | strange or unusual | There is a peculiar smell in the kitchen.
+Performance | noun | how well someone does something, or a show | Her performance in the exam was excellent.
+Permanent | adjective | lasting for a very long time or forever | He found a permanent job.
+Personal | adjective | belonging to or about one particular person | This is my personal opinion.
+Personnel | noun | the people who work for an organisation | All personnel must wear a badge.
+Physical | adjective | relating to the body | Physical exercise keeps you fit.
+Physician | noun | a medical doctor | She went to see her physician.
+Piece | noun | a part of something | Can I have a piece of cake?
+Pleasant | adjective | nice and enjoyable | We had a pleasant evening.
+Possible | adjective | able to happen or be done | Is it possible to finish today?
+Potatoes | noun | round vegetables that grow under the ground (plural of potato) | We had fried potatoes for dinner.
+Practically | adverb | almost; nearly | The bottle is practically empty.
+Privilege | noun | a special right or advantage | It is a privilege to meet you.
+Professor | noun | a senior teacher at a university | The professor gave a long lecture.
+Professional | adjective | doing a job for money that needs special training | He is a professional footballer.
+Pronounce | verb | to say a word in a particular way | How do you pronounce this word?
+Psychology | noun | the study of the mind and behaviour | She studies psychology at university.
+Psychological | adjective | relating to the mind | Stress can cause psychological problems.
+Quantity | noun | an amount or number of something | We bought a large quantity of rice.
+Quality | noun | how good or bad something is | This shirt is of high quality.
+Quiz | noun | a short test or game of questions | We had a quiz on the planets.
+Queue | noun | a line of people waiting for something | There was a long queue at the bank.
+Realistic | adjective | sensible and based on what is possible | Set realistic goals.
+Realize | verb | to become aware of something | I didn't realize it was so late.
+Receipt | noun | a paper showing that you have paid | Keep the receipt in case you need to return it.
+Receive | verb | to get something that is given or sent | Did you receive my letter?
+Recommend | verb | to suggest that something is good | Can you recommend a good restaurant?
+Reference | noun | a mention of something, or a letter about someone's character | She wrote a reference for her student.
+Religious | adjective | relating to religion | It is a religious holiday.
+Remember | verb | to keep something in your mind | I remember my first day at school.
+Representative | noun | a person chosen to act or speak for others | She is our class representative.
+Restaurant | noun | a place where you buy and eat meals | We had dinner at an Italian restaurant.
+Rhythm | noun | a regular repeated pattern of sounds or movements | The song has a strong rhythm.
+Ridiculous | adjective | very silly or unreasonable | That is a ridiculous idea.
+Subtle | adjective | not obvious; small but important | There is a subtle difference between the two colours.
+Scrutinize | verb | to examine something very carefully | The teacher will scrutinize every answer.
+Simultaneous | adjective | happening at the same time | There were two simultaneous explosions.
+Serene | adjective | calm and peaceful | The lake looked serene at sunrise.
+Skeptical | adjective | doubting that something is true | I am skeptical about his story.
+Sustain | verb | to keep something going over time | It is hard to sustain such a fast pace.
+Substantial | adjective | large in amount or importance | She earns a substantial salary.
+Solitary | adjective | alone; without others | He went for a solitary walk.
+Suppress | verb | to stop yourself from showing a feeling, or to stop something by force | She tried to suppress a smile.
+Technical | adjective | relating to machines, science or special skills | We had a technical problem with the computer.
+Technique | noun | a particular way of doing something | He learned a new painting technique.
+Temperature | noun | how hot or cold something is | The temperature dropped below zero.
+Temporary | adjective | lasting only for a short time | This is a temporary job.
+Their | determiner | belonging to them | The children forgot their bags.
+There | adverb | in or at that place, not here | Put the box over there.
+They're | contraction | short for "they are" | They're coming to dinner tonight.
+Themselves | pronoun | the same people as "they" | They built the house themselves.
+Undoubtedly | adverb | certainly; without doubt | She is undoubtedly the best player.
+Unforgettable | adjective | so good or special you cannot forget it | Our trip to the mountains was unforgettable.
+Until | preposition | up to a particular time | Wait here until I come back.
+Useful | adjective | helpful; able to be used well | A dictionary is a useful tool.
+Valuable | adjective | worth a lot of money, or very useful | This ring is very valuable.
+Village | noun | a very small town in the countryside | He grew up in a small village.
+Violence | noun | the use of force to hurt people | Violence is never the answer.
+Violent | adjective | using force to hurt or damage | It was a violent storm.
+Vision | noun | the ability to see, or an idea of the future | She has a clear vision for the company.
+Volume | noun | the loudness of a sound, or the amount of space something fills | Please turn down the volume.
+Weather | noun | the condition of the air: sun, rain, wind and so on | The weather is lovely today.
+Wednesday | noun | the day after Tuesday | The meeting is on Wednesday.
+Whether | conjunction | if; used to talk about a choice | I don't know whether to laugh or cry.
+Which | determiner | used to ask about one of a group | Which bus goes to the city centre?
+Woman | noun | an adult female person (singular) | A woman was waiting at the door.
+Women | noun | adult female people (plural of woman) | Three women were waiting at the door.
+Worthwhile | adjective | worth the time, money or effort | Volunteering is a worthwhile activity.
+Written | verb | past participle of write | The letter was written in pencil.
+Writing | noun | the activity of putting words on paper | Her writing has improved a lot.
+Xenophobe | noun | a person who fears or dislikes people from other countries | Only a xenophobe would refuse to meet the new neighbours.
+Xerox | verb | to make a photocopy of something | Please xerox these pages for the class.
+Xylophone | noun | a musical instrument of wooden bars hit with small hammers | She played a tune on the xylophone.
+Yacht | noun | a boat with sails used for racing or pleasure | They sailed around the island on a yacht.
+Young | adjective | not old; in the early part of life | My sister is too young to drive.
+Zoo | noun | a place where wild animals are kept for people to see | We saw lions at the zoo.
+Zoom | verb | to move very fast, or to make a picture look closer | Cars zoom past our house all day.
+Zucchini | noun | a long green vegetable, also called a courgette | Slice the zucchini and fry it in oil.

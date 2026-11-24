@@ -1,0 +1,37 @@
+# Words that sound like another word. Format: Word | other;other
+Advice | advise
+Advise | advice
+Affect | effect
+Effect | affect
+Altogether | all together
+Band | banned
+Bell | belle
+Bread | bred
+Complement | compliment
+Complementary | complimentary
+Conscience | conscious
+Conscious | conscience
+Discrete | discreet
+Formerly | formally
+Fourth | forth
+Later | latter
+Lightning | lightening
+Loose | lose
+Lose | loose
+Mail | male
+Muscle | mussel
+Personal | personnel
+Personnel | personal
+Piece | peace
+Precede | proceed
+Rough | ruff
+Their | there;they're
+There | their;they're
+They're | their;there
+Weather | whether
+Whether | weather
+Which | witch
+Whose | who's
+Wine | whine
+Woman | women
+Women | woman
